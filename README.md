@@ -54,8 +54,9 @@ My research and engineering interests lie at the intersection of **Large Languag
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salieri2077&show_icons=true&theme=tokyonight&hide_border=true" alt="Salieri2077's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salieri2077&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Salieri2077&show_icons=true&theme=tokyonight&hide_border=true" alt="Salieri2077's Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salieri2077&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="150" />
 </div>
 
 ---
